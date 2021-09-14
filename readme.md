@@ -28,4 +28,4 @@ Steps to generate and consume a projection from third party metadata:
 Learn more about C++/WinRT here:
 http://aka.ms/cppwinrt/
 ========================================================================
-![screenshot](Screenshot 2021-09-14 150828.png) 
+![screenshot](img.png) 
